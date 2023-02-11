@@ -1,0 +1,112 @@
+h1 {
+    position: absolute;
+    left: 38%;
+    font:bolder;
+    font-size: 60px;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+body {
+    background-color: aqua;
+}
+
+#ac_button {
+    width: 250px;
+    position:absolute;
+    left:45%;
+    top: 40%;
+    height: 50px;
+    border-color: white;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 25;
+    color:lime;
+}
+
+#bedroom_button {
+    width: 250px;
+    position:absolute;
+    left:45%;
+    top: 50%;
+    height: 50px;
+    border-color: white;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 25;
+    color:lime;
+}
+
+#bottle_button {
+    width: 250px;
+    position:absolute;
+    left:45%;
+    top: 60%;
+    height: 50px;
+    border-color: white;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 25;
+    color:lime;
+}
+
+#fruit_button {
+    width: 250px;
+    position:absolute;
+    left:45%;
+    top: 70%;
+    height: 50px;
+    border-color: white;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 25;
+    color:lime;
+}
+
+#toy_button {
+    width: 250px;
+    position:absolute;
+    left:45%;
+    top: 80%;
+    height: 50px;
+    border-color: white;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 25;
+    color:lime;
+}
+
+#ac_button:hover{
+   background-color: lime;
+   width: 280px;
+   border-color: lime;
+   border: none;
+   color:white;
+   box-shadow: 10px 10px 10px grey;
+}
+#bedroom_button:hover{
+    background-color: lime;
+    width: 280px;
+    border-color: lime;
+    border: none;
+    color:white;
+    box-shadow: 10px 10px 10px grey;
+ }
+ #bottle_button:hover{
+    background-color: lime;
+    width: 280px;
+    border-color: lime;
+    border: none;
+    color:white;
+    box-shadow: 10px 10px 10px grey;
+ }
+ #fruit_button:hover{
+    background-color: lime;
+    width: 280px;
+    border-color: lime;
+    border: none;
+    color:white;
+    box-shadow: 10px 10px 10px grey;
+ }
+ #toy_button:hover{
+    background-color: lime;
+    width: 280px;
+    border-color: lime;
+    border: none;
+    color:white;
+    box-shadow: 10px 10px 10px grey;
+ }

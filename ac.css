@@ -1,0 +1,29 @@
+h1 {
+    position: absolute;
+    left: 42%;
+    font:bolder;
+    font-size: 60px;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+}
+
+body {
+    background-color: aqua;
+}
+
+#back {
+    background-color: black;
+    color:white;
+    height: 50px;
+    width: 53px;
+    text-align: center;
+    border-radius: 20%;
+    position:absolute;
+    left: 1%;
+    top: 2%;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
